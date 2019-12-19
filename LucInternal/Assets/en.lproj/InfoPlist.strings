@@ -1,0 +1,16 @@
+/* 
+  InfoPlist.strings
+  LucChatSDK
+
+  Created by HARSH VARDHAN on 01/12/19.
+  Copyright © 2019 Lintel Technologies. All rights reserved.
+*/
+
+
+// Permissions usage explanations
+"NSCameraUsageDescription" = "The camera is used to take photos and videos, make video calls.";
+"NSPhotoLibraryUsageDescription" = "The photo library is used to send photos and videos.";
+"NSMicrophoneUsageDescription" = "The microphone is used to take videos, make calls.";
+"NSContactsUsageDescription" = "In order to show you which of your contacts are already using LUC, we can send the email addresses and phone numbers in your address book to your Matrix Identity Server. New Vector does not store this data or use it for any other purpose. For more information please see the privacy policy page in application settings.";
+"NSCalendarsUsageDescription" = "See your scheduled meetings in the app.";
+
